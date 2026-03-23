@@ -20,15 +20,9 @@ TheMealDB API (https://www.themealdb.com/api.php)
 ## Technologies Used
 
 * HTML
-* CSS (or Tailwind CSS)
+* CSS
 * JavaScript (Fetch API)
 * Array Higher Order Functions (map, filter, sort)
-
-## How to Run the Project
-
-1. Clone the repository
-2. Open the project folder
-3. Open index.html in your browser
 
 ## Milestones
 
