@@ -1,32 +1,35 @@
-# Recipe Ingredient Finder
+# 🍜 Hostel Quick Meal Finder
 
-## Project Description
+## 📌 Project Description
 
-This web application allows users to find recipes based on ingredients they have. It fetches real-time data from TheMealDB API and displays recipes along with their details. The application is designed to help users quickly discover meals without needing to search manually.
+This web application helps hostel students find quick and easy meals based on the ingredients they have. It suggests simple recipes that require minimal time, cost, and cooking effort. The application uses a public API to fetch real-time recipe data and provides a user-friendly interface for discovering meals.
 
-## Features
+## 🚀 Features
 
-* Search recipes by ingredient
-* Filter recipes (vegetarian / non-vegetarian)
-* Sort recipes alphabetically
-* View detailed cooking instructions
-* Save favorite recipes using local storage
-* Responsive design for all devices
+* Select or enter available ingredients (e.g., Maggi, bread, eggs)
+* Get quick meal suggestions instantly
+* Filter meals based on time (e.g., under 10 minutes)
+* Filter low-cost recipes suitable for students
+* Sort meals by simplicity or name
+* View cooking instructions
+* Save favorite meals using local storage
+* Fully responsive design for mobile and desktop
 
-## API Used
+## 🔌 API Used
 
 TheMealDB API (https://www.themealdb.com/api.php)
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 * HTML
 * CSS
-* JavaScript (Fetch API)
+* JavaScript
 * Array Higher Order Functions (map, filter, sort)
 
-## Milestones
 
-* Milestone 1: Project setup and planning
+## 📅 Milestones
+
+* Milestone 1: Project idea and setup
 * Milestone 2: API integration and data display
 * Milestone 3: Core features (search, filter, sort)
 * Milestone 4: Final deployment and submission
